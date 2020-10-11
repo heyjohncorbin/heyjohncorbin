@@ -6,4 +6,4 @@
 
 ![I smile, like a lot haha.](https://raw.githubusercontent.com/heyjohncorbin/heyjohncorbin/master/john-smile.jpg)
 
-![background](#e4eeff)
+![bg-color](#e4eeff)
